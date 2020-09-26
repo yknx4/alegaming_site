@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/alegaming_site/static/css/main.942da884.chunk.css",
+    "main.js": "/alegaming_site/static/js/main.e2d2bb61.chunk.js",
+    "main.js.map": "/alegaming_site/static/js/main.e2d2bb61.chunk.js.map",
+    "runtime-main.js": "/alegaming_site/static/js/runtime-main.ab519dba.js",
+    "runtime-main.js.map": "/alegaming_site/static/js/runtime-main.ab519dba.js.map",
+    "static/css/2.6df4c8f8.chunk.css": "/alegaming_site/static/css/2.6df4c8f8.chunk.css",
+    "static/js/2.01f7fb22.chunk.js": "/alegaming_site/static/js/2.01f7fb22.chunk.js",
+    "static/js/2.01f7fb22.chunk.js.map": "/alegaming_site/static/js/2.01f7fb22.chunk.js.map",
+    "index.html": "/alegaming_site/index.html",
+    "precache-manifest.d1fcbcc03101acaacc32afe28afb4bdd.js": "/alegaming_site/precache-manifest.d1fcbcc03101acaacc32afe28afb4bdd.js",
+    "service-worker.js": "/alegaming_site/service-worker.js",
+    "static/css/2.6df4c8f8.chunk.css.map": "/alegaming_site/static/css/2.6df4c8f8.chunk.css.map",
+    "static/css/main.942da884.chunk.css.map": "/alegaming_site/static/css/main.942da884.chunk.css.map",
+    "static/js/2.01f7fb22.chunk.js.LICENSE.txt": "/alegaming_site/static/js/2.01f7fb22.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab519dba.js",
+    "static/css/2.6df4c8f8.chunk.css",
+    "static/js/2.01f7fb22.chunk.js",
+    "static/css/main.942da884.chunk.css",
+    "static/js/main.e2d2bb61.chunk.js"
+  ]
+}
