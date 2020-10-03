@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d1457ceac79b6d469927a8fd58862f00",
+    "revision": "04c8179297b16b649a156ef4dbc05aa4",
     "url": "/alegaming_site/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/alegaming_site/static/css/2.220ccb42.chunk.css"
   },
   {
-    "revision": "5a5edb61d47ff4a4a832",
+    "revision": "f4c1738d569fbd42fb71",
     "url": "/alegaming_site/static/css/main.7783d4c0.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/alegaming_site/static/js/2.d2336b10.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5a5edb61d47ff4a4a832",
-    "url": "/alegaming_site/static/js/main.06f84a27.chunk.js"
+    "revision": "f4c1738d569fbd42fb71",
+    "url": "/alegaming_site/static/js/main.44875501.chunk.js"
   },
   {
     "revision": "0f1c8878bbb62cdc35f3",

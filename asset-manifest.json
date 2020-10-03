@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/alegaming_site/static/css/main.7783d4c0.chunk.css",
-    "main.js": "/alegaming_site/static/js/main.06f84a27.chunk.js",
-    "main.js.map": "/alegaming_site/static/js/main.06f84a27.chunk.js.map",
+    "main.js": "/alegaming_site/static/js/main.44875501.chunk.js",
+    "main.js.map": "/alegaming_site/static/js/main.44875501.chunk.js.map",
     "runtime-main.js": "/alegaming_site/static/js/runtime-main.ab519dba.js",
     "runtime-main.js.map": "/alegaming_site/static/js/runtime-main.ab519dba.js.map",
     "static/css/2.220ccb42.chunk.css": "/alegaming_site/static/css/2.220ccb42.chunk.css",
     "static/js/2.d2336b10.chunk.js": "/alegaming_site/static/js/2.d2336b10.chunk.js",
     "static/js/2.d2336b10.chunk.js.map": "/alegaming_site/static/js/2.d2336b10.chunk.js.map",
     "index.html": "/alegaming_site/index.html",
-    "precache-manifest.daaaa4b39f326edd9f9ee36dfaa93d29.js": "/alegaming_site/precache-manifest.daaaa4b39f326edd9f9ee36dfaa93d29.js",
+    "precache-manifest.d8fc7f8006560d24305efe518ca74bb2.js": "/alegaming_site/precache-manifest.d8fc7f8006560d24305efe518ca74bb2.js",
     "service-worker.js": "/alegaming_site/service-worker.js",
     "static/css/2.220ccb42.chunk.css.map": "/alegaming_site/static/css/2.220ccb42.chunk.css.map",
     "static/css/main.7783d4c0.chunk.css.map": "/alegaming_site/static/css/main.7783d4c0.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.220ccb42.chunk.css",
     "static/js/2.d2336b10.chunk.js",
     "static/css/main.7783d4c0.chunk.css",
-    "static/js/main.06f84a27.chunk.js"
+    "static/js/main.44875501.chunk.js"
   ]
 }
