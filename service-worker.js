@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/alegaming_site/precache-manifest.ed906eb9e9a543e9f135234c0f6938d2.js"
+  "/alegaming_site/precache-manifest.b5f0382d5208b3164f2cd1355e4cf261.js"
 );
 
 self.addEventListener('message', (event) => {
